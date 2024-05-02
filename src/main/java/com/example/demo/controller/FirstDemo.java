@@ -10,7 +10,7 @@ public class FirstDemo  {
 
     @GetMapping()
     public String helloWorld(){
-        return  "muhsin 12312 ";
+        return  "muhsin ";
 
     }
 
